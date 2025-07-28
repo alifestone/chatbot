@@ -1,8 +1,14 @@
 # QuickStart 
 ## install
-```pip install -r requestment.txt```
+```bash
+pip install -r requestment.txt
+```
 
 ## run
-```gradio UI.py  # 提供熱重載```<br>
+```bash
+gradio UI.py  # 提供熱重載
+```
 or<br>
-```python UI.py```
+```bash
+python UI.py
+```
